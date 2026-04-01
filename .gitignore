@@ -1,6 +1,12 @@
+
+.idea/
+*.iml
 __pycache__/
 *.pyc
-*.db
-.venv
-.pytest_cache/
-.idea
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
